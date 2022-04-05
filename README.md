@@ -10,6 +10,9 @@
 
 ## Chapter 3 Linear Neural Networks
 - Linear Regression
+
+**Regression** refers to a set of methods for modeling the relationship between one or more independent variables and a dependent *variable*.
+
 - Softmax Regression
 
 ## Chapter 4 Multilayer Perceptrons
@@ -26,10 +29,10 @@
 ## 
 
 [中文版](https://zh.d2l.ai/)
-![](https://github.com/yimincn/D2L_pytorch/blob/84814c81a487153368ec4e92c3d491a060f391f1/pic/Chinese_version_front.png)
+![Chinese version front](https://github.com/yimincn/D2L_pytorch/blob/84814c81a487153368ec4e92c3d491a060f391f1/pic/Chinese_version_front.png)
 
 [English Version](https://d2l.ai/)
-![](https://github.com/yimincn/D2L_pytorch/blob/master/pic/English_version_front.png)
+![English version front](https://github.com/yimincn/D2L_pytorch/blob/master/pic/English_version_front.png)
 
 > 《动手学深度学习》
 
