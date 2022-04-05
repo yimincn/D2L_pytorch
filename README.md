@@ -31,3 +31,7 @@
 [English Version](https://d2l.ai/)
 ![](https://github.com/yimincn/D2L_pytorch/blob/master/pic/English_version_front.png)
 
+> 《动手学深度学习》
+
+> Dive into Deep Learning
+
