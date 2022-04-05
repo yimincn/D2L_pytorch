@@ -17,8 +17,18 @@
 
 ## Chapter 4 Multilayer Perceptrons
 1. Multilayer Perceptrons
-2. Dropout
-3. Environment and Distribution Shift
+
+```
+import torch
+from torch import nn
+from d2l import torch as d2l
+
+batch_size = 256
+train_iter, test_iter = d2l.load_data_fashion_mnist(batch_size)
+```
+
+3. Dropout
+4. Environment and Distribution Shift
 
 
 ## Chapter 5 Deep Learning Computation
@@ -27,6 +37,15 @@
 ### 5.3. Deferred Initialization
 
 ## 
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 
 [中文版](https://zh.d2l.ai/)
 ![Chinese version front](https://github.com/yimincn/D2L_pytorch/blob/84814c81a487153368ec4e92c3d491a060f391f1/pic/Chinese_version_front.png)
