@@ -26,7 +26,7 @@
 ## 
 
 [中文版](https://zh.d2l.ai/)
-![](pic/Chinese version front.png)
+![](https://github.com/yimincn/D2L_pytorch/blob/cbf5347ac558c1942597438d30888c72823e2ad3/pic/Chinese%20version%20front.png)
 
 [English Version](https://d2l.ai/)
 ![]()
