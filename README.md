@@ -26,8 +26,8 @@
 ## 
 
 [中文版](https://zh.d2l.ai/)
-![](https://github.com/yimincn/D2L_pytorch/blob/cbf5347ac558c1942597438d30888c72823e2ad3/pic/Chinese%20version%20front.png)
+![](https://github.com/yimincn/D2L_pytorch/blob/84814c81a487153368ec4e92c3d491a060f391f1/pic/Chinese_version_front.png)
 
 [English Version](https://d2l.ai/)
-![]()
+![](https://github.com/yimincn/D2L_pytorch/blob/master/pic/English_version_front.png)
 
