@@ -26,5 +26,8 @@
 ## 
 
 [中文版](https://zh.d2l.ai/)
+![](pic/Chinese version front.png)
+
 [English Version](https://d2l.ai/)
+![]()
 
