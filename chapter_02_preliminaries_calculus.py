@@ -46,7 +46,7 @@ def set_axes(axes, xlabel, ylabel, xlim, ylim, xscale, yscale, legend):
 
 # @save
 def plot(X, Y=None, xlabel=None, ylabel=None, legend=None, xlim=None, ylim=None, xscale='linear', yscale='linear',
-         fmts=('-', 'm--', 'g-.', 'r:'), figsize=(35, 25), axes=None):
+         fmts=('-', 'm--', 'g-.', 'r:'), figsize=(3.5, 2.5), axes=None):
     """Plot data points."""
     if legend is None:
         legend = []
@@ -56,8 +56,7 @@ def plot(X, Y=None, xlabel=None, ylabel=None, legend=None, xlim=None, ylim=None,
 
     # Return True if `X` (tensor or list) has 1 axis
     def has_one_axis(X):
-        return (hasattr(X, "ndim") and X.ndim == 1 or isinstance(X, list)
-                and not hasattr(X[0], "__len__"))
+        return (hasattr(X, "ndim") and X.ndim == 1 or isinstance(X, list) and not hasattr(X[0], "__len__"))
 
     if has_one_axis(X):
         X = [X]

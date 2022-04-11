@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17e05c94-2a0a-4581-8e7e-a1e4df0f4b47" name="Changes" comment="update chapter_18_appendix-mathematics-for-deep-learning_eigendecomposition.py">
-      <change afterPath="$PROJECT_DIR$/chapter_02_preliminaries_autograd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_02_preliminaries_calculus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_02_preliminaries_linear-algebra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_02_preliminaries_lookup_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_02_preliminaries_ndarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_02_preliminaries_pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_02_preliminaries_probability.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
+    <list default="true" id="17e05c94-2a0a-4581-8e7e-a1e4df0f4b47" name="Changes" comment="update chapter_02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_18_appendix-mathematics-for-deep-learning_eigendecomposition.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_18_appendix-mathematics-for-deep-learning_eigendecomposition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_02_preliminaries_autograd.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_02_preliminaries_autograd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_02_preliminaries_calculus.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_02_preliminaries_calculus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_02_preliminaries_linear-algebra.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_02_preliminaries_linear-algebra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_02_preliminaries_probability.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_02_preliminaries_probability.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +47,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.chapter_02_preliminaries_calculus">
+  <component name="RunManager" selected="Python.chapter_02_preliminaries_autograd">
+    <configuration name="chapter_02_preliminaries_autograd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="D2L_pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_02_preliminaries_autograd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapter_02_preliminaries_calculus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="D2L_pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chapter_02_preliminaries_lookup_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter_02_preliminaries_linear-algebra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="D2L_pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,28 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_02_preliminaries_lookup_api.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chapter_02_preliminaries_ndarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="D2L_pytorch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_02_preliminaries_ndarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_02_preliminaries_linear-algebra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="chapter_18_appendix-mathematics-for-deep-learning_eigendecomposition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter_02_preliminaries_probability" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="D2L_pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_18_appendix-mathematics-for-deep-learning_eigendecomposition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_02_preliminaries_probability.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chapter_02_preliminaries_autograd" />
+        <item itemvalue="Python.chapter_02_preliminaries_probability" />
+        <item itemvalue="Python.chapter_02_preliminaries_linear-algebra" />
         <item itemvalue="Python.chapter_02_preliminaries_calculus" />
         <item itemvalue="Python.chapter_02_preliminaries_pandas" />
-        <item itemvalue="Python.chapter_02_preliminaries_ndarray" />
-        <item itemvalue="Python.chapter_02_preliminaries_lookup_api" />
-        <item itemvalue="Python.chapter_18_appendix-mathematics-for-deep-learning_eigendecomposition" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649607577217</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update chapter_02">
+      <created>1649676700283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649676700283</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +232,18 @@
     <MESSAGE value="update pic" />
     <MESSAGE value="update chapter_18_appendix-mathematics-for-deep-learning_geometry-linear-algebraic-ops.py" />
     <MESSAGE value="update chapter_18_appendix-mathematics-for-deep-learning_eigendecomposition.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="update chapter_18_appendix-mathematics-for-deep-learning_eigendecomposition.py" />
+    <MESSAGE value="update chapter_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="update chapter_02" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chapter_02_preliminaries_calculus.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
